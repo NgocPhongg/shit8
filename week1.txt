@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-week1 text 202322 HEAD
-edit 20233333
-
-=======
-week1 text
-abc
-<<<<<<< HEAD
-edit lan 222222222
->>>>>>> main
-=======
-edit lan 22223333333333
->>>>>>> main
+abccccc
