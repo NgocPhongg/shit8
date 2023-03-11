@@ -1,11 +1,1 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-week1 text 202322 H
-edit 20233333
-
-=======
->>>>>>> Stashed changes
-week1 text
-abc
-edit lan 22223333333333
+2023333
